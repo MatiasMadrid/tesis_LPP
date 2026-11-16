@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "AD8040ARZ") (type "KiCad") (uri "${KIPRJMOD}/Componentes/AD8040ARZ/AD8040ARZ.kicad_sym") (options "") (descr ""))
+)
